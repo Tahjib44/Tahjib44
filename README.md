@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tahjib44
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++
+- 📫 How to reach me : Tahjib_44 in Discord
